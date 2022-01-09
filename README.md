@@ -1,1 +1,3 @@
 # comp302_5girls1boi_game
+
+Throughout the Fall 2020 term, we, group of 6 people, have developed the KUvid Game as the term project of Comp 302. We have implemented this project by following the Model-View Separation, GRASP, and GOF Patterns that we have acquired during the classes of Comp302-Software Engineering. These patterns and Model-View Separation Principle made the game easier-to-update and made it possible to use on many devices as the domain layer is not UI-dependent. We have used git to code and work on different tasks simultaneously. In the end, we tested some features of the game by using JUnit and tested the whole game by playing ourselves as well.
